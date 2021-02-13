@@ -1,0 +1,2 @@
+service: hamachi
+runtime: go114
